@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="ashx404.iframe" version="0.1.0">
+  <name>iframe</name>
+  <description>
+    Example Tabris.js App
+  </description>
+  <author email="ashishkhandelwal404@gmail.com">
+    Aashish Khandelwal
+  </author>
+  <preference name="EnableDeveloperConsole" value="$IS_DEBUG" />
+</widget>
